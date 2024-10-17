@@ -1,0 +1,10 @@
+audio-separator[gpu]==0.21.0
+scipy
+yt_dlp
+pydantic==2.8.2
+fastapi==0.112.0
+starlette==0.37.2
+pyngrok
+uv
+uvicorn
+python-multipart
